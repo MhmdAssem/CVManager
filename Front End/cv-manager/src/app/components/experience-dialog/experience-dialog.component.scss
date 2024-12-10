@@ -1,0 +1,100 @@
+/* Ensure dialog container takes full width and height */
+::ng-deep .mat-dialog-container {
+    width: 600px !important;  /* Force width */
+    max-width: 100% !important;  /* Ensure it doesn't exceed screen width */
+    height: auto !important;    /* Ensure it auto-adjusts for content */
+    max-height: 80vh;  /* Ensures it doesn't exceed 80% of the screen height */
+    padding: 20px;
+    display: flex;
+    flex-direction: column;  /* Ensure the dialog content is in a column layout */
+  }
+  
+  /* Form layout: stack form elements vertically */
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    width: 100%;
+  }
+  
+  /* Ensure mat-form-fields take up full width */
+  mat-form-field {
+    width: 100%;
+  }
+  
+  /* Title styling */
+  h2 {
+    text-align: center;
+    margin-bottom: 16px;
+  }
+  
+  /* Actions container */
+  .actions {
+    display: flex;
+    justify-content: space-between;  /* Spread buttons to left and right */
+    gap: 16px;
+    margin-top: 20px;
+  }
+  
+  /* Buttons */
+  button {
+    min-width: 120px;
+  }
+  
+  /* Error message styling */
+  mat-error {
+    font-size: 12px;
+    color: #f44336;
+  }
+  
+  /* Adjust form field height to handle larger content */
+  .mat-form-field {
+    min-height: 70px; /* Ensure form fields are a bit taller */
+  }
+  
+  /* Add some spacing between form elements */
+  mat-form-field {
+    margin-bottom: 12px;
+  }
+  
+  /* Ensure buttons are aligned and have consistent styling */
+button {
+  min-width: 120px;
+  padding: 10px 20px;
+  font-size: 14px;
+  font-weight: 500;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+  display: inline-block;
+  cursor: pointer; /* Make cursor a pointer on hover */
+}
+
+/* Button for Submit (Save) */
+button[type="submit"] {
+  background-color: #3f51b5; /* Primary color */
+  color: white;
+  &:hover {
+    background-color: #303f9f;
+  }
+}
+
+/* Button for Cancel */
+button[type="button"] {
+  background-color: #f44336; /* Warn color */
+  color: white;
+  &:hover {
+    background-color: #e53935;
+  }
+}
+
+/* Buttons container (align them properly) */
+.actions {
+  display: flex;
+  justify-content: space-between; /* This will space the buttons out to the left and right */
+  gap: 16px;
+  width: 100%;
+}
+
+.actions button[type="button"] {
+  margin-right: auto; /* This pushes the Cancel button to the left */
+}

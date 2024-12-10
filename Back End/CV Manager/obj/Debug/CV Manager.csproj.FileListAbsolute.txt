@@ -1,0 +1,82 @@
+C:\Mine\Back End\CV Manager\bin\Debug\appsettings.Development.json
+C:\Mine\Back End\CV Manager\bin\Debug\appsettings.json
+C:\Mine\Back End\CV Manager\bin\Debug\CV Manager.exe
+C:\Mine\Back End\CV Manager\bin\Debug\CV Manager.deps.json
+C:\Mine\Back End\CV Manager\bin\Debug\CV Manager.runtimeconfig.json
+C:\Mine\Back End\CV Manager\bin\Debug\CV Manager.runtimeconfig.dev.json
+C:\Mine\Back End\CV Manager\bin\Debug\CV Manager.dll
+C:\Mine\Back End\CV Manager\bin\Debug\CV Manager.pdb
+C:\Mine\Back End\CV Manager\bin\Debug\Humanizer.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Microsoft.Identity.Client.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Microsoft.OpenApi.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Mine\Back End\CV Manager\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Mine\Back End\CV Manager\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Mine\Back End\CV Manager\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Mine\Back End\CV Manager\bin\Debug\System.Runtime.Caching.dll
+C:\Mine\Back End\CV Manager\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Mine\Back End\CV Manager\bin\Debug\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Mine\Back End\CV Manager\bin\Debug\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Mine\Back End\CV Manager\bin\Debug\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Mine\Back End\CV Manager\bin\Debug\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Mine\Back End\CV Manager\bin\Debug\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Mine\Back End\CV Manager\bin\Debug\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Mine\Back End\CV Manager\bin\Debug\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Mine\Back End\CV Manager\bin\Debug\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Mine\Back End\CV Manager\bin\Debug\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Mine\Back End\CV Manager\bin\Debug\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Mine\Back End\CV Manager\bin\Debug\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Mine\Back End\CV Manager\bin\Debug\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Mine\Back End\CV Manager\obj\Debug\CV Manager.csproj.AssemblyReference.cache
+C:\Mine\Back End\CV Manager\obj\Debug\CV Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mine\Back End\CV Manager\obj\Debug\CV Manager.AssemblyInfoInputs.cache
+C:\Mine\Back End\CV Manager\obj\Debug\CV Manager.AssemblyInfo.cs
+C:\Mine\Back End\CV Manager\obj\Debug\CV Manager.csproj.CoreCompileInputs.cache
+C:\Mine\Back End\CV Manager\obj\Debug\CV Manager.MvcApplicationPartsAssemblyInfo.cs
+C:\Mine\Back End\CV Manager\obj\Debug\CV Manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Mine\Back End\CV Manager\obj\Debug\CV Manager.RazorTargetAssemblyInfo.cache
+C:\Mine\Back End\CV Manager\obj\Debug\scopedcss\bundle\CV Manager.styles.css
+C:\Mine\Back End\CV Manager\obj\Debug\staticwebassets\CV Manager.StaticWebAssets.Manifest.cache
+C:\Mine\Back End\CV Manager\obj\Debug\staticwebassets\CV Manager.StaticWebAssets.Pack.cache
+C:\Mine\Back End\CV Manager\obj\Debug\staticwebassets\msbuild.CV Manager.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Mine\Back End\CV Manager\obj\Debug\staticwebassets\msbuild.build.CV Manager.props
+C:\Mine\Back End\CV Manager\obj\Debug\staticwebassets\msbuild.buildMultiTargeting.CV Manager.props
+C:\Mine\Back End\CV Manager\obj\Debug\staticwebassets\msbuild.buildTransitive.CV Manager.props
+C:\Mine\Back End\CV Manager\obj\Debug\CV Manager.csproj.Up2Date
+C:\Mine\Back End\CV Manager\obj\Debug\CV Manager.dll
+C:\Mine\Back End\CV Manager\obj\Debug\refint\CV Manager.dll
+C:\Mine\Back End\CV Manager\obj\Debug\CV Manager.pdb
+C:\Mine\Back End\CV Manager\obj\Debug\CV Manager.genruntimeconfig.cache
+C:\Mine\Back End\CV Manager\obj\Debug\ref\CV Manager.dll
+C:\Mine\Back End\CV Manager\bin\Debug\AutoMapper.dll
+C:\Mine\Back End\CV Manager\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Serilog.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Serilog.AspNetCore.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Serilog.Enrichers.Environment.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Serilog.Extensions.Hosting.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Serilog.Extensions.Logging.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Serilog.Formatting.Compact.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Serilog.Settings.Configuration.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Serilog.Sinks.Console.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Serilog.Sinks.Debug.dll
+C:\Mine\Back End\CV Manager\bin\Debug\Serilog.Sinks.File.dll
+C:\Mine\Back End\CV Manager\bin\Debug\logs\cv-manager-20241209.json

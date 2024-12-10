@@ -1,0 +1,115 @@
+<h2>Create New CV</h2>
+<form [formGroup]="cvForm" (ngSubmit)="onSubmit()">
+  <!-- CV Name -->
+  <mat-form-field appearance="fill">
+    <mat-label>CV Name</mat-label>
+    <input matInput formControlName="name" required />
+    <mat-error *ngIf="cvForm.get('name')?.touched">
+      <span *ngIf="cvForm.get('name')?.hasError('required')">CV Name is required.</span>
+      <span *ngIf="!cvForm.get('name')?.hasError('required') && cvForm.get('name')?.hasError('noWhitespace')">
+        CV Name cannot contain only spaces.
+      </span>
+    </mat-error>
+  </mat-form-field>
+
+  <!-- Personal Information -->
+  <div formGroupName="personalInformation">
+    <mat-form-field appearance="fill">
+      <mat-label>Full Name</mat-label>
+      <input matInput formControlName="fullName" required />
+      <mat-error *ngIf="personalInformation.get('fullName')?.touched">
+        <span *ngIf="personalInformation.get('fullName')?.hasError('required')">Full Name is required.</span>
+        <span *ngIf="!personalInformation.get('fullName')?.hasError('required') && personalInformation.get('fullName')?.hasError('noWhitespace')">
+          Full Name cannot contain only spaces.
+        </span>
+      </mat-error>
+    </mat-form-field>
+
+    <mat-form-field appearance="fill">
+      <mat-label>City</mat-label>
+      <input matInput formControlName="cityName" required />
+      <mat-error *ngIf="personalInformation.get('cityName')?.touched">
+        <span *ngIf="personalInformation.get('cityName')?.hasError('required')">City is required.</span>
+        <span *ngIf="!personalInformation.get('cityName')?.hasError('required') && personalInformation.get('cityName')?.hasError('noWhitespace')">
+          City cannot contain only spaces.
+        </span>
+      </mat-error>
+    </mat-form-field>
+
+    <mat-form-field appearance="fill">
+      <mat-label>Email</mat-label>
+      <input matInput formControlName="email" required />
+      <mat-error *ngIf="personalInformation.get('email')?.touched">
+        <span *ngIf="personalInformation.get('email')?.hasError('required')">Email is required.</span>
+        <span *ngIf="!personalInformation.get('email')?.hasError('required') && personalInformation.get('email')?.hasError('email')">
+          Please provide a valid email.
+        </span>
+      </mat-error>
+    </mat-form-field>
+
+    <mat-form-field appearance="fill">
+      <mat-label>Mobile Number</mat-label>
+      <input matInput formControlName="mobileNumber" required />
+      <mat-error *ngIf="personalInformation.get('mobileNumber')?.touched">
+        <span *ngIf="personalInformation.get('mobileNumber')?.hasError('required')">Mobile Number is required.</span>
+        <span *ngIf="!personalInformation.get('mobileNumber')?.hasError('required') && personalInformation.get('mobileNumber')?.hasError('pattern')">
+          Please provide a valid mobile number.
+        </span>
+      </mat-error>
+    </mat-form-field>
+  </div>
+
+  <!-- Experience Information -->
+  <mat-card class="experience-card">
+    <mat-card-header>
+      <mat-card-title>Experience Information</mat-card-title>
+      <button mat-raised-button color="primary" (click)="openExperienceDialog(); $event.preventDefault()">
+        <mat-icon>add</mat-icon> Add Experience
+      </button>
+    </mat-card-header>
+
+    <mat-card-content>
+      <table mat-table [dataSource]="experienceDataSource" *ngIf="experienceInformation.length > 0">
+        <ng-container matColumnDef="companyName">
+          <th mat-header-cell *matHeaderCellDef>Company</th>
+          <td mat-cell *matCellDef="let exp">{{ exp.value.companyName }}</td>
+        </ng-container>
+
+        <ng-container matColumnDef="city">
+          <th mat-header-cell *matHeaderCellDef>City</th>
+          <td mat-cell *matCellDef="let exp">{{ exp.value.city }}</td>
+        </ng-container>
+
+        <ng-container matColumnDef="companyField">
+          <th mat-header-cell *matHeaderCellDef>Field</th>
+          <td mat-cell *matCellDef="let exp">{{ exp.value.companyField }}</td>
+        </ng-container>
+
+        <ng-container matColumnDef="actions">
+          <th mat-header-cell *matHeaderCellDef>Actions</th>
+          <td mat-cell *matCellDef="let exp; let i = index">
+            <button mat-icon-button color="primary" (click)="openExperienceDialog(exp.value); $event.preventDefault()">
+              <mat-icon>edit</mat-icon>
+            </button>
+            <button mat-icon-button color="warn" (click)="onDeleteExperience(i); $event.preventDefault()">
+              <mat-icon>delete</mat-icon>
+            </button>
+          </td>
+        </ng-container>
+
+        <tr mat-header-row *matHeaderRowDef="experienceColumns"></tr>
+        <tr mat-row *matRowDef="let row; columns: experienceColumns;"></tr>
+      </table>
+
+      <div *ngIf="experienceInformation.length === 0" class="no-data">
+        No experiences added yet.
+      </div>
+    </mat-card-content>
+  </mat-card>
+
+  <!-- Actions -->
+  <div class="actions">
+    <button mat-button color="warn" type="button" (click)="goBack(); $event.preventDefault()">Cancel</button>
+    <button mat-raised-button color="primary" type="submit">Save CV</button>
+  </div>
+</form>

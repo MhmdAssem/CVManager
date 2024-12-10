@@ -1,0 +1,50 @@
+.container {
+  padding: 20px;
+
+  .actions-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+
+    mat-form-field {
+      flex: 0.7; /* Shrink the search bar size */
+      margin-right: 15px;
+    }
+
+    button {
+      min-width: 180px; /* Make the button bigger */
+      height: 50px; /* Increase the height for prominence */
+      font-size: 1rem; /* Larger text for better visibility */
+    }
+  }
+
+  mat-card-title {
+    font-size: 1.6rem; /* Slightly smaller than before */
+    margin-bottom: 15px; /* Adjust margin for balance */
+  }
+
+  table {
+    width: 100%;
+  }
+
+  .loading-shade {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.15);
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .empty-state {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: gray;
+  }
+}

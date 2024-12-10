@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mine\\Back End\\CV Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{978F5D2C-E5BC-4ABC-B104-676C38FB8EED}|..\\CV Manager Test\\CV Manager Test.csproj|c:\\mine\\back end\\cv manager test\\repositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978F5D2C-E5BC-4ABC-B104-676C38FB8EED}|..\\CV Manager Test\\CV Manager Test.csproj|c:\\mine\\back end\\cv manager test\\cv manager test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978F5D2C-E5BC-4ABC-B104-676C38FB8EED}|..\\CV Manager Test\\CV Manager Test.csproj|c:\\mine\\back end\\cv manager test\\cvcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepositoryTest.cs",
+              "DocumentMoniker": "C:\\Mine\\Back End\\CV Manager Test\\RepositoryTest.cs",
+              "RelativeDocumentMoniker": "..\\CV Manager Test\\RepositoryTest.cs",
+              "ToolTip": "C:\\Mine\\Back End\\CV Manager Test\\RepositoryTest.cs",
+              "RelativeToolTip": "..\\CV Manager Test\\RepositoryTest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:43:32.912Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CVControllerTest.cs",
+              "DocumentMoniker": "C:\\Mine\\Back End\\CV Manager Test\\CVControllerTest.cs",
+              "RelativeDocumentMoniker": "..\\CV Manager Test\\CVControllerTest.cs",
+              "ToolTip": "C:\\Mine\\Back End\\CV Manager Test\\CVControllerTest.cs",
+              "RelativeToolTip": "..\\CV Manager Test\\CVControllerTest.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAwKMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:36:14.82Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CV Manager Test",
+              "DocumentMoniker": "C:\\Mine\\Back End\\CV Manager Test\\CV Manager Test.csproj",
+              "RelativeDocumentMoniker": "..\\CV Manager Test\\CV Manager Test.csproj",
+              "ToolTip": "C:\\Mine\\Back End\\CV Manager Test\\CV Manager Test.csproj",
+              "RelativeToolTip": "..\\CV Manager Test\\CV Manager Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-10T21:57:46.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

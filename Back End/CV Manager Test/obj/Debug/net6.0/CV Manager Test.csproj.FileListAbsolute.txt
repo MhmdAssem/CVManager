@@ -1,0 +1,175 @@
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\testhost.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\CV Manager.deps.json
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\CV Manager.runtimeconfig.json
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\CV Manager.runtimeconfig.dev.json
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\appsettings.Development.json
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\appsettings.json
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\logs\cv-manager-20241209.json
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\CV Manager.exe
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\testhost.exe
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\nunit.engine.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\CV Manager Test.deps.json
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\CV Manager Test.runtimeconfig.json
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\CV Manager Test.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\CV Manager Test.pdb
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\AutoMapper.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Castle.Core.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\FluentAssertions.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Moq.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\nunit.framework.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Serilog.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Serilog.Enrichers.Environment.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\CV Manager.dll
+C:\Mine\Back End\CV Manager Test\bin\Debug\net6.0\CV Manager.pdb
+C:\Mine\Back End\CV Manager Test\obj\Debug\net6.0\CV Manager Test.csproj.AssemblyReference.cache
+C:\Mine\Back End\CV Manager Test\obj\Debug\net6.0\CV Manager Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mine\Back End\CV Manager Test\obj\Debug\net6.0\CV Manager Test.AssemblyInfoInputs.cache
+C:\Mine\Back End\CV Manager Test\obj\Debug\net6.0\CV Manager Test.AssemblyInfo.cs
+C:\Mine\Back End\CV Manager Test\obj\Debug\net6.0\CV Manager Test.csproj.CoreCompileInputs.cache
+C:\Mine\Back End\CV Manager Test\obj\Debug\net6.0\CV Manag.073CFA8E.Up2Date
+C:\Mine\Back End\CV Manager Test\obj\Debug\net6.0\CV Manager Test.dll
+C:\Mine\Back End\CV Manager Test\obj\Debug\net6.0\refint\CV Manager Test.dll
+C:\Mine\Back End\CV Manager Test\obj\Debug\net6.0\CV Manager Test.pdb
+C:\Mine\Back End\CV Manager Test\obj\Debug\net6.0\CV Manager Test.genruntimeconfig.cache
+C:\Mine\Back End\CV Manager Test\obj\Debug\net6.0\ref\CV Manager Test.dll
